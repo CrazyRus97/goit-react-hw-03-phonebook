@@ -1,6 +1,6 @@
 import React from 'react';
 import { Formik } from 'formik';
-import * as yup from 'npm i yup';
+import * as yup from 'yup';
 import { nanoid } from 'nanoid';
 import { BsFillTelephoneFill, BsPersonFill } from 'react-icons/bs';
 import { IoMdPersonAdd } from 'react-icons/io';
