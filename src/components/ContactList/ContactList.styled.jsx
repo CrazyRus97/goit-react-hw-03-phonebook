@@ -45,7 +45,7 @@ export const Btn = styled.button`
     color: ${p => p.theme.colors.text};
     text-shadow: 1px 1px 1px #fff;
 
-    box-shadow: -2px -2px 2px #fff, 2px 2px 2px #4b1414;
+    box-shadow: -2px -2px 2px #fff, 2px 2px 2px #090430;
 
     svg {
       fill: ${p => p.theme.colors.text};
@@ -56,7 +56,7 @@ export const Btn = styled.button`
       color: ${p => p.theme.colors.text};
       text-shadow: 1px 1px 1px #fff;
 
-      box-shadow: inset 1px 1px 1px #4b1414, inset -1px -1px 1px #fff;
+      box-shadow: inset 1px 1px 1px #090430, inset -1px -1px 1px #fff;
 
       svg {
         fill: ${p => p.theme.colors.text};
